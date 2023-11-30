@@ -1,7 +1,7 @@
 body{
     font-family: Roboto, sans-serif;
     background-color: #fff;
-    color: #2E2F42;
+    color: #434455;
 }
 
 ul{
@@ -70,10 +70,11 @@ a{
  font-size: 56px;
  font-style: normal;
  font-weight: 700;
- line-height: 1.11;
+ line-height: 1.07;
  letter-spacing: 1.12px;
 }
 .button{
+ font-family: Roboto, sans-serif;
  background-color: #4D5AE5;
  color: #FFF;
  font-size: 16px;
@@ -81,6 +82,7 @@ a{
  font-weight: 500;
  line-height: 1.5;
  letter-spacing: 0.64px;
+ cursor: pointer;
 }
 .button:hover,
 .button:focus{
